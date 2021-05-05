@@ -1,0 +1,1 @@
+van ilyen haromszog, kerulet = 12 , terulet = 6
